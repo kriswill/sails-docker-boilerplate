@@ -49,4 +49,4 @@ You use this repo to develop a new [Sails](http://sailsjs.org) app on your local
   ```
   this should open up a page that looks like:
 
-  ![Image of default sails page](sails-default-page.png)
+  ![Image of default sails page](https://cloud.githubusercontent.com/assets/115474/9781557/8e9e5090-574a-11e5-8d7e-c3ff559f398c.png)

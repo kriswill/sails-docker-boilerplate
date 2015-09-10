@@ -1,0 +1,10 @@
+sails:
+  build: .
+  #from: node:4.0
+  ports:
+    - "1337:1337"
+  volumes:
+    - ./:/sails
+  command: npm start
+  environment:
+    - NODE_ENV=dev
